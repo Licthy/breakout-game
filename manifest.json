@@ -1,0 +1,21 @@
+{
+  "name": "打砖块",
+  "short_name": "打砖块",
+  "description": "Breakout 打砖块游戏",
+  "start_url": "/breakout-game/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "https://picsum.photos/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
